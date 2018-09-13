@@ -1,0 +1,25 @@
+_repo: Self-Control-Its-Kingship-and-Majesty_51469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jordan, William George
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '2249'
+    url: http://www.gutenberg.org/2009/agents/2249
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Self-control'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: Self-Control, Its Kingship and Majesty
+url: http://www.gutenberg.org/ebooks/51469
