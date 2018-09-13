@@ -1,5 +1,8 @@
 _repo: Self-Control-Its-Kingship-and-Majesty_51469
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51469-h/images/cover.jpg
 creator:
   author:
     agent_name: Jordan, William George
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2249'
     url: http://www.gutenberg.org/2009/agents/2249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51469#Self-Control-Its-Kingship-and-Majesty
 gutenberg_issued: '2016-03-16'
 gutenberg_type: Text
 identifiers:
